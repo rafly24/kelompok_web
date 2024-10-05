@@ -1,0 +1,27 @@
+.seni-indonesia {
+    text-align: center;
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.seni-indonesia .becak-icon {
+    width: 60px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.seni-indonesia h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-style: italic;
+    font-family: Italianno;
+    font-weight: 400;
+}
+
+.seni-indonesia p {
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+    font-family: Merriweather;
+}

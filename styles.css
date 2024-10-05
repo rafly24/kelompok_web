@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Italianno&family=Jaldi:wght@400;700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jaldi:wght@400;700&display=swap');
+@import url("css/beranda.css");
+@import url("css/about.css");
+@import url("css/galeri.css");
+@import url("css/about_us.css");
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#F6EAC3;
+}

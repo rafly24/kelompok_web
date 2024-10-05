@@ -1,0 +1,46 @@
+.galeri-seni {
+    background-color: #f5e8d0; /* Warna latar belakang krem */
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.galeri-seni h2 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: "Irish Grover";
+}
+.seni-content {
+    margin-bottom: 20px;
+}
+
+.seni-content h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-family: "Irish Grover";
+}
+
+.seni-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.seni-info p {
+    flex: 1;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-family: Instrument Sans;
+    font-size: 25px;
+}
+
+.seni-image {
+    width: 312px;
+    height: 312px;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #000;
+    margin: 20px 0;
+}
